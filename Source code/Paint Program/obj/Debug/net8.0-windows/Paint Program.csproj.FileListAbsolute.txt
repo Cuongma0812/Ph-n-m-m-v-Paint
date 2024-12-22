@@ -1,0 +1,19 @@
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\bin\Debug\net8.0-windows\Paint Program.exe
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\bin\Debug\net8.0-windows\Paint Program.deps.json
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\bin\Debug\net8.0-windows\Paint Program.runtimeconfig.json
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\bin\Debug\net8.0-windows\Paint Program.dll
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\bin\Debug\net8.0-windows\Paint Program.pdb
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint_Program.Form2.resources
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint_Program.Form1.resources
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint_Program.Properties.Resources.resources
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.csproj.GenerateResource.cache
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.AssemblyInfoInputs.cache
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.AssemblyInfo.cs
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.csproj.CoreCompileInputs.cache
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.dll
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\refint\Paint Program.dll
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.pdb
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint Program.genruntimeconfig.cache
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\ref\Paint Program.dll
+C:\Users\dell-hts\source\repos\Paint Program\Paint Program\obj\Debug\net8.0-windows\Paint_Program.PaletteForm.resources
